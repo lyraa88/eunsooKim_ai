@@ -1,4 +1,4 @@
-7/2 
+## 7/2 
 
 ### 저번 시간 복습
 1. vs code에서 내용을 수정한 뒤 반드시 저장을 하고 add -> commit -> push 할 것
@@ -11,8 +11,9 @@
 `with open('/content/sample_data/anscombe.json') as file_1, \
      open('test.json', 'w') as file_2:
       file_2.write(file_1.read())
-# 코드 내에서 줄바꿈을 하고 싶으면 \를 마지막에 붙일 것 
-`
+      `
+### 코드 내에서 줄바꿈을 하고 싶으면 \를 마지막에 붙일 것 
+
 
 2. 유용한 명령어
 `!pwd  # 경로 확인
