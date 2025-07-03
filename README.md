@@ -29,21 +29,28 @@
 
 Here are a few highlights from my portfolio:
 
-- 🧠 **Customer Churn Prediction**  
-  Built a machine learning model to predict customer churn using classification algorithms and feature engineering techniques.  
-  [GitHub Repo](#)
+- 🎧 **Mutism – Real-Time Auditory Support System for Autism**  
+  Developed an AI-powered auditory assistant that detects and classifies sensitive sounds in real time to support individuals on the autism spectrum.  
+  Integrated MediaPipe, YamNet, and TFLite into an Android application to trigger personalized calming phrases and white noise upon noise detection.  
+  [https://github.com/GDSC-SWU/2025-Mutism-SolutionChallenge.git](#)
 
-- 💬 **Sentiment Analysis on Social Media**  
-  An NLP project that classifies tweets into positive, neutral, or negative sentiment.  
-  [GitHub Repo](#)
+- ✍️ **Moodinary – Emotion-Aware Journal Application**  
+  Built a BERT-based NLP model to analyze journal entries and classify dominant emotions.  
+  The app provides personalized feedback and emotion-tracking visualizations to support users' emotional awareness and well-being.  
+  [https://github.com/GDSC-SWU/2024-Moodinary-HultPrize.git](#)
 
-- 📊 **Interactive Business Dashboard**  
-  Created a Tableau dashboard for visualizing key business metrics using sales and customer data.  
-  [Tableau Link](#)
+- 👟 **Sneaker Resale Price Prediction (Research Project)**  
+  Conducted a research-driven machine learning project to predict sneaker resale prices using structured marketplace data.  
+  Applied regression models and time-sensitive features to capture hype trends, drop timing, and brand effects.  
+  Published as an academic paper with focus on consumer behavior and data-driven pricing strategy.
+  [https://ki-it.or.kr/board/maininfo/article/250682](#)
 
-- 📅 **Time Series Forecasting (ARIMA, LSTM)**  
-  Forecasted stock prices and sales trends using both statistical and deep learning models.  
-  [GitHub Repo](#)
+  - 🧩 **Block-Based Coding Evaluation Framework (with Monolith Inc.)**  
+  Collaborated with Monolith Inc. to design an evaluation framework for assessing learners’ competencies in block-based coding education.  
+  Developed performance metrics based on learning objectives and analyzed code complexity and logic flow using real student submissions.  
+  Delivered a scalable rubric system applicable to both beginner and intermediate levels.  
+  https://github.com/seyeon78/Block-coding-achievement](#)
+
 
 ---
 
