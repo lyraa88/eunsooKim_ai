@@ -45,7 +45,7 @@ Here are a few highlights from my portfolio:
   Published as an academic paper with focus on consumer behavior and data-driven pricing strategy.
   [Paper Link](https://ki-it.or.kr/board/maininfo/article/250682)
 
-  - 🧩 **Block-Based Coding Evaluation Framework (with Monolith Inc.)**  
+- 🧩 **Block-Based Coding Evaluation Framework (with Monolith Inc.)**  
   Collaborated with Monolith Inc. to design an evaluation framework for assessing learners’ competencies in block-based coding education.  
   Developed performance metrics based on learning objectives and analyzed code complexity and logic flow using real student submissions.  
   Delivered a scalable rubric system applicable to both beginner and intermediate levels.  
