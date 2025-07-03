@@ -32,24 +32,24 @@ Here are a few highlights from my portfolio:
 - 🎧 **Mutism – Real-Time Auditory Support System for Autism**  
   Developed an AI-powered auditory assistant that detects and classifies sensitive sounds in real time to support individuals on the autism spectrum.  
   Integrated MediaPipe, YamNet, and TFLite into an Android application to trigger personalized calming phrases and white noise upon noise detection.  
-  [https://github.com/GDSC-SWU/2025-Mutism-SolutionChallenge.git](#)
+  [Github Repo](https://github.com/GDSC-SWU/2025-Mutism-SolutionChallenge.git)
 
 - ✍️ **Moodinary – Emotion-Aware Journal Application**  
   Built a BERT-based NLP model to analyze journal entries and classify dominant emotions.  
   The app provides personalized feedback and emotion-tracking visualizations to support users' emotional awareness and well-being.  
-  [https://github.com/GDSC-SWU/2024-Moodinary-HultPrize.git](#)
+  [Github Repo](https://github.com/GDSC-SWU/2024-Moodinary-HultPrize.git)
 
 - 👟 **Sneaker Resale Price Prediction (Research Project)**  
   Conducted a research-driven machine learning project to predict sneaker resale prices using structured marketplace data.  
   Applied regression models and time-sensitive features to capture hype trends, drop timing, and brand effects.  
   Published as an academic paper with focus on consumer behavior and data-driven pricing strategy.
-  [https://ki-it.or.kr/board/maininfo/article/250682](#)
+  [Paper Link](https://ki-it.or.kr/board/maininfo/article/250682)
 
   - 🧩 **Block-Based Coding Evaluation Framework (with Monolith Inc.)**  
   Collaborated with Monolith Inc. to design an evaluation framework for assessing learners’ competencies in block-based coding education.  
   Developed performance metrics based on learning objectives and analyzed code complexity and logic flow using real student submissions.  
   Delivered a scalable rubric system applicable to both beginner and intermediate levels.  
-  https://github.com/seyeon78/Block-coding-achievement](#)
+  [Github Repo](https://github.com/seyeon78/Block-coding-achievement)
 
 
 ---
