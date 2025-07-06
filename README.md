@@ -15,7 +15,7 @@
 
 | Category       | Tools & Libraries                                                 |
 |----------------|-------------------------------------------------------------------|
-| Languages      | Python, SQL,                                                   |
+| Languages      | Python, SQL                                                   |
 | Data Analysis  | pandas, NumPy, statsmodels                                        |
 | Visualization  | matplotlib, seaborn, Plotly, Tableau                              |
 | Machine Learning | scikit-learn, XGBoost, LightGBM                                  |
